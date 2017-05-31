@@ -1,0 +1,7 @@
+[ServerIP] 		=localhost
+[TimeOutClientFlag] 	=0
+[TimeOutClient] 	=60000
+[PathFileTarget] 	=D:/test/target.txt
+[PathFileResult] 	=D:/test/Result3.txt
+[GeneratTextFile]	=1
+[NumberOfTextFile]	=1000000
